@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Lesosoftware",
+    "longName": "VPort",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Pebble VPort Splash.png",
+                "name": "IMAGE_VPORT_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/Pebble VPort Icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "VPort",
+    "uuid": "0c38e32d-5a62-4022-ae7e-c112f4cdc1d6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
